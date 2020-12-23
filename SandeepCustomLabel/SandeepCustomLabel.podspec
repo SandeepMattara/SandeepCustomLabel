@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'SandeepCustomLabel/Classes/**/*'
+  s.source_files = 'SandeepCustomLabel/SandeepCustomLabel/Classes/'
   
   # s.resource_bundles = {
   #   'SandeepCustomLabel' => ['SandeepCustomLabel/Assets/*.png']
