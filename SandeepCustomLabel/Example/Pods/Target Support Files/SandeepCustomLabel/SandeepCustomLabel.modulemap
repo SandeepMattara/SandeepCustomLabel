@@ -1,0 +1,6 @@
+framework module SandeepCustomLabel {
+  umbrella header "SandeepCustomLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
