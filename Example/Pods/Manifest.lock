@@ -1,7 +1,7 @@
 PODS:
   - Nimble (8.0.9)
   - Quick (2.2.1)
-  - SandeepCustomLabel (0.1.2)
+  - SandeepCustomLabel (0.1.3)
 
 DEPENDENCIES:
   - Nimble (~> 8.0.7)
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
   Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
-  SandeepCustomLabel: 411354d2f7a5491b3667ed5bba7f58220edc2be0
+  SandeepCustomLabel: 854ad0776b265edefe01317f3d41f274add09d56
 
 PODFILE CHECKSUM: 8df6562660be1cb5ea483b7b2534158d330d59f8
 

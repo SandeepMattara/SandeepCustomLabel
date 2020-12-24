@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SandeepCustomLabel
 //
-//  Created by Hung Vu on 12/23/2020.
-//  Copyright (c) 2020 Hung Vu. All rights reserved.
+//  Created by SandeepMattara on 12/23/2018.
+//  Copyright (c) 2020 SandeepMattara. All rights reserved.
 //
 
 import UIKit

@@ -1,6 +1,6 @@
 # SandeepCustomLabel
 
-[![CI Status](https://img.shields.io/travis/Hung Vu/SandeepCustomLabel.svg?style=flat)](https://travis-ci.org/Hung Vu/SandeepCustomLabel)
+[![CI Status](https://img.shields.io/travis/SandeepMattara/SandeepCustomLabel.svg?style=flat)](https://travis-ci.org/SandeepMattara/SandeepCustomLabel)
 [![Version](https://img.shields.io/cocoapods/v/SandeepCustomLabel.svg?style=flat)](https://cocoapods.org/pods/SandeepCustomLabel)
 [![License](https://img.shields.io/cocoapods/l/SandeepCustomLabel.svg?style=flat)](https://cocoapods.org/pods/SandeepCustomLabel)
 [![Platform](https://img.shields.io/cocoapods/p/SandeepCustomLabel.svg?style=flat)](https://cocoapods.org/pods/SandeepCustomLabel)
@@ -22,7 +22,7 @@ pod 'SandeepCustomLabel'
 
 ## Author
 
-Hung Vu, vickyhtconex@gmail.com
+SandeepMattara, SandeepMattara@gmail.com
 
 ## License
 
